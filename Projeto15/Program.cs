@@ -11,6 +11,9 @@ namespace Projeto15
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
+
+            Produto[] vetor = new Produto[n];
+
         }
     }
 }
